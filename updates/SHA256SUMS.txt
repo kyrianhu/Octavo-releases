@@ -1,0 +1,2 @@
+868716cdc23efb12523a2cc090266131659cb39c82d255916c9e81fc1812fc7c  Octavo-Android-1.5.0.apk
+d665a45a04ded9dcc114cc9067df63cac6a7f824ce304f371af7a445c135c072  Octavo-macOS-1.0.0-Universal.dmg
