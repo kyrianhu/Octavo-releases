@@ -4,7 +4,7 @@
 
 | 平台 | 当前版本 | 下载 | 更新说明 |
 | --- | --- | --- | --- |
-| Android 8.0+ | 1.5.0 | [安装包](https://github.com/kyrianhu/Octavo-releases/releases/download/android-1.5.0/Octavo-Android-1.5.0.apk) | [查看说明](notes/android-1.5.0.md) |
+| Android 8.0+ | 1.5.1 | [安装包](https://github.com/kyrianhu/Octavo-releases/releases/download/android-1.5.1/Octavo-Android-1.5.1.apk) | [查看说明](notes/android-1.5.1.md) |
 | macOS 13+ · Apple Silicon / Intel | 1.0.0 | [安装包](https://github.com/kyrianhu/Octavo-releases/releases/download/macos-1.0.0/Octavo-macOS-1.0.0-Universal.dmg) | [查看说明](notes/macos-1.0.0.md) |
 
 ## 钢琴音色
